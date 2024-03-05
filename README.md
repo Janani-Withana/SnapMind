@@ -1,20 +1,6 @@
  <img src="snapmind-high-resolution-logo-transparent (1).png" alt="SnapMind App Icon" width="260" height="45">
  
 # SnapMind
- 
-SnapMind is a cutting-edge Android app powered by the Gemini Pro API, designed to enhance your image intelligence experience.
-
-## Features
-- **Seamless Image Upload**: Upload images effortlessly for detailed analysis.
-- **Instant Answers**: Ask questions about your images and receive accurate, detailed answers instantly.
-- **User-Friendly Interface**: Enjoy a simple and intuitive interface for easy navigation.
-- **Versatile Use Cases**: Perfect for students, researchers, or anyone curious about the world around them.
-- **Real-Time Information**: Gain insights into objects, scenes, and more, all at your fingertips.
-
-## Get Started
-1. **Clone the Repository**:
-
-# SnapMind
 
 SnapMind is a cutting-edge Android app powered by the Gemini Pro API, designed to enhance your image intelligence experience.
 
