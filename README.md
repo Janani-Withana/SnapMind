@@ -1,6 +1,5 @@
-
-# ![SnapMind App Icon](snapmind-favicon-color.png) SnapMind
-
+ <img src="snapmind-favicon-color.png" alt="SnapMind App Icon" width="50" height="50">SnapMind
+ 
 SnapMind is a cutting-edge Android app powered by the Gemini Pro API, designed to enhance your image intelligence experience.
 
 ## Features
