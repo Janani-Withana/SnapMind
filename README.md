@@ -1,5 +1,7 @@
  <img src="snapmind-high-resolution-logo-transparent (1).png" alt="SnapMind App Icon" width="260" height="45">
  
+# SnapMind
+ 
 SnapMind is a cutting-edge Android app powered by the Gemini Pro API, designed to enhance your image intelligence experience.
 
 ## Features
